@@ -30,3 +30,4 @@ About me
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&theme=dark&layout=compact" />
 </a>
 
+[![Felipe Mattes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiximitho)]
