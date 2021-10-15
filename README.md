@@ -27,6 +27,6 @@ About me
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python,javascript,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho" />
 </a>
 
