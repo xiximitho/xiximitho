@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello 👋
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a mobile developer from Brazil 🇧🇷
 
 About me
 
     💼 Mobile Developer at Gamatec
 
-    ⚡ I love writing cpp codes
+    ⚡ I love writing cpp codes in my free time
 
 
 ![Xiximitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true)
