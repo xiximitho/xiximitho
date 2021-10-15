@@ -23,16 +23,10 @@ About me
 
     ⚡ I love writing cpp codes in my free time
 
-
-![Xiximitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=html,css,javascript)]
-****
-
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python,javascript,html,css" />
 </a>
 
