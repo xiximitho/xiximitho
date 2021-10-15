@@ -29,4 +29,10 @@ About me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python)]
 ****
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python" />
+</a>
 
