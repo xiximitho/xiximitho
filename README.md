@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **xiximitho/xiximitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello 👋
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+About me
+
+    💼 Mobile Developer at Gamatec
+
+    ⚡ I love writing cpp codes
+
 
 ![Xiximitho's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true)
 
