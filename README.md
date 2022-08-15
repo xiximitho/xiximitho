@@ -21,9 +21,7 @@ About me
 
     ⚡ I love writing cpp codes in my free time. Use linux !
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true&theme=dark" />
-</a>
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&theme=dark&layout=compact" />
 </a>
