@@ -19,7 +19,7 @@ I'm from Brazil 🇧🇷
 
 About me
 
-    ⚡ I love writing cpp codes in my free time. Use linux !
+    ⚡ I love writing cpp/c codes and study about linux in my free time. Use linux !
 
 
 <a href="">
