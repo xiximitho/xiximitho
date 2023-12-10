@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello 👋
-I'm from Brazil 🇧🇷
+### Olá 👋
+ Me chamo Felipe e resido no Brasil 🇧🇷.
 
-About me
+Sobre mim:
 
-    ⚡ I love writing cpp/c codes and study about linux in my free time. Use linux !
-
+    ⚡ Trabalho com desenvolvimento de software a mais de 5 anos, tendo inicio com Object Pascal e PostgreSQL, posteriormente com desenvolvimento nativo para android e desktop com C++ e SQL Server. Utilizo e estudo Linux a mais de 7 anos e adoro saber e estudar tecnologias emergentes. 
+    🔭 Atualmente trabalho com tecnologias oracle, como PL/SQL e Oracle Forms. Também tenho projetos de aprendizado de máquina com Python.
+    🌱 Sempre estou estudando tecnologias e conteúdos emergentes na área da computação, e neste Github há um pouco disso. 
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&theme=dark&layout=compact" />
