@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
 - 🇧🇷 I'm from Brazil
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **C++, Python, OpenCV, Machine Learning**
+- 💬 Ask me about **Python, Django, OpenCV, Yolo**
 
 - 📫 How to reach me **mattesfelipe@gmail.com**
 
-- 📄 Know about my experiences [Object Pascal, Qt with C++, Python with ML, PL/SQL and Oracle Forms]
+- 📄 Know about my experiences [Object Pascal, Qt with C++, Python with ML, PL/SQL and Oracle Forms, Python Web Development (FastAPI, Django, Flask)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
